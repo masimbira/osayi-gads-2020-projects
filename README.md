@@ -1,1 +1,1 @@
-# osayi-gads-2020-projects
+# SAYI's GADS 2020 Project Submissions
